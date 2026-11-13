@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "672b101a91e1f1001a000001",
+    "id": "672b101a91e1f1001a000001",
+    "title": "Operating Systems: Kernel Process Scheduler",
+    "subject": "Computer Science (CS 401)",
+    "description": "Implement a priority-based round-robin CPU scheduler in C with context-switching metrics and wait-time statistics.",
+    "deadline": "2026-11-06T23:59:00.000Z",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2026-10-31T23:59:00.000Z",
+    "updatedAt": "2026-11-04T23:59:00.000Z"
+  },
+  {
+    "_id": "672b101a91e1f1001a000002",
+    "id": "672b101a91e1f1001a000002",
+    "title": "Multivariable Calculus: Problem Set 5",
+    "subject": "Mathematics (MATH 215)",
+    "description": "Solve Green's theorem and Stokes' theorem boundary integral problems 14 through 28 with complete work.",
+    "deadline": "2026-11-08T17:00:00.000Z",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2026-11-01T23:59:00.000Z",
+    "updatedAt": "2026-11-01T23:59:00.000Z"
+  },
+  {
+    "_id": "672b101a91e1f1001a000003",
+    "id": "672b101a91e1f1001a000003",
+    "title": "Organic Chemistry: NMR Spectroscopy Analysis",
+    "subject": "Chemistry (CHEM 302)",
+    "description": "Analyze 1H and 13C NMR spectra for unknown aromatic compounds and write the 4-page laboratory discussion.",
+    "deadline": "2026-11-03T23:59:00.000Z",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2026-10-28T23:59:00.000Z",
+    "updatedAt": "2026-11-03T23:59:00.000Z"
+  },
+  {
+    "_id": "672b101a91e1f1001a000004",
+    "id": "672b101a91e1f1001a000004",
+    "title": "Macroeconomics: Central Bank Policy Paper",
+    "subject": "Economics (ECON 202)",
+    "description": "Write a 1,500-word critical evaluation on interest rate adjustments and inflation targeting strategies.",
+    "deadline": "2026-11-11T23:59:00.000Z",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2026-11-02T23:59:00.000Z",
+    "updatedAt": "2026-11-02T23:59:00.000Z"
+  },
+  {
+    "_id": "672b101a91e1f1001a000005",
+    "id": "672b101a91e1f1001a000005",
+    "title": "Database Systems: Normalization & B+ Tree Indexing",
+    "subject": "Computer Science (CS 330)",
+    "description": "Design the 3NF schema for an e-commerce platform and optimize queries using B+ tree index structures.",
+    "deadline": "2026-11-01T18:00:00.000Z",
+    "priority": "Medium",
+    "status": "Completed",
+    "createdAt": "2026-10-26T23:59:00.000Z",
+    "updatedAt": "2026-11-01T23:59:00.000Z"
+  },
+  {
+    "_id": "672b101a91e1f1001a000006",
+    "id": "672b101a91e1f1001a000006",
+    "title": "Technical Writing: Research Proposal Peer Review",
+    "subject": "English (ENG 210)",
+    "description": "Review two peer draft papers on autonomous vehicle ethics and provide structured margin annotations.",
+    "deadline": "2026-11-13T23:59:00.000Z",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2026-11-03T23:59:00.000Z",
+    "updatedAt": "2026-11-03T23:59:00.000Z"
+  },
+  {
+    "_id": "672b101a91e1f1001a000007",
+    "id": "672b101a91e1f1001a000007",
+    "title": "Physics II: Electromagnetic Wave Simulations",
+    "subject": "Physics (PHYS 220)",
+    "description": "Simulate wave propagation through dielectric interfaces using Python and export the polarization plots.",
+    "deadline": "2026-10-29T23:59:00.000Z",
+    "priority": "High",
+    "status": "Completed",
+    "createdAt": "2026-10-22T23:59:00.000Z",
+    "updatedAt": "2026-10-29T23:59:00.000Z"
+  }
+]

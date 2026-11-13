@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "672b10000000000000000001",
+    "id": "672b10000000000000000001",
+    "name": "Prof. Sarah Mitchell",
+    "adminId": "FACULTY-001",
+    "email": "faculty@university.edu",
+    "passwordHash": "$2b$10$lEu4wZMLtPZOFi3CZtSOeurpqAKEnGGPxXHigQ3RdRaS4ng59k9C6",
+    "role": "admin",
+    "department": "Computer Science & Engineering",
+    "class": "Faculty Lead",
+    "createdAt": "2026-11-07T14:04:30.214Z",
+    "updatedAt": "2026-11-07T14:04:30.217Z"
+  },
+  {
+    "_id": "672b10000000000000000002",
+    "id": "672b10000000000000000002",
+    "name": "Alex Johnson",
+    "registrationNumber": "ST-2024-001",
+    "email": "alex.johnson@student.edu",
+    "passwordHash": "$2b$10$lEu4wZMLtPZOFi3CZtSOeu0vOsA4TE91zuCRNbnGHQDV.FnzHmZC2",
+    "role": "student",
+    "department": "Computer Science & Engineering",
+    "class": "CS-301 (Year 3)",
+    "createdAt": "2026-11-07T14:04:30.341Z",
+    "updatedAt": "2026-11-07T14:04:30.341Z"
+  },
+  {
+    "_id": "672b10000000000000000003",
+    "id": "672b10000000000000000003",
+    "name": "Emma Watson",
+    "registrationNumber": "ST-2024-002",
+    "email": "emma.watson@student.edu",
+    "passwordHash": "$2b$10$lEu4wZMLtPZOFi3CZtSOeu0vOsA4TE91zuCRNbnGHQDV.FnzHmZC2",
+    "role": "student",
+    "department": "Computer Science & Engineering",
+    "class": "CS-301 (Year 3)",
+    "createdAt": "2026-11-07T14:04:30.457Z",
+    "updatedAt": "2026-11-07T14:04:30.457Z"
+  },
+  {
+    "_id": "672b10000000000000000004",
+    "id": "672b10000000000000000004",
+    "name": "David Chen",
+    "registrationNumber": "ST-2024-003",
+    "email": "david.chen@student.edu",
+    "passwordHash": "$2b$10$lEu4wZMLtPZOFi3CZtSOeu0vOsA4TE91zuCRNbnGHQDV.FnzHmZC2",
+    "role": "student",
+    "department": "Information Technology",
+    "class": "IT-302 (Year 3)",
+    "createdAt": "2026-11-07T14:04:30.565Z",
+    "updatedAt": "2026-11-07T14:04:30.565Z"
+  },
+  {
+    "_id": "672b10000000000000000005",
+    "id": "672b10000000000000000005",
+    "name": "Sindhu",
+    "registrationNumber": "ST-2024-005",
+    "email": "sindhuanguluri1926@gmail.com",
+    "passwordHash": "$2b$10$lEu4wZMLtPZOFi3CZtSOeu0vOsA4TE91zuCRNbnGHQDV.FnzHmZC2",
+    "role": "student",
+    "department": "Computer Science & Engineering",
+    "class": "CS-301 (Year 3)",
+    "createdAt": "2026-11-07T14:04:30.670Z",
+    "updatedAt": "2026-11-07T14:04:30.670Z"
+  },
+  {
+    "_id": "student_1794061004191",
+    "id": "student_1794061004191",
+    "name": "2026-CS-999",
+    "registrationNumber": "2026-CS-999",
+    "email": "2026cs999@student.edu",
+    "passwordHash": "$2b$10$2Z6zX7KsfPrgbslw2l4jpumSU6c5Y4beneXnAc4xnDCtiZhU9f962",
+    "role": "student",
+    "department": "Computer Science & Engineering",
+    "class": "CS-301 (Year 3)",
+    "createdAt": "2026-11-07T14:16:44.190Z",
+    "updatedAt": "2026-11-07T14:16:44.190Z"
+  }
+]

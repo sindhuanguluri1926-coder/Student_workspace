@@ -1,0 +1,6 @@
+{
+  "name": "Student Assignment Workspace",
+  "description": "A modern, professional academic productivity dashboard for college students to track assignments, deadlines, priorities, and course workloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

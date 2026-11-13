@@ -1,0 +1,140 @@
+[
+  {
+    "_id": "672b30000000000000000001",
+    "id": "672b30000000000000000001",
+    "studentId": "672b10000000000000000002",
+    "registrationNumber": "ST-2024-001",
+    "studentName": "Alex Johnson",
+    "examId": "672b20000000000000000001",
+    "examTitle": "Database Systems: Normalization & Indexing",
+    "subject": "Computer Science (CS 330)",
+    "answers": [
+      {
+        "questionId": "q1",
+        "selectedOption": "C",
+        "isCorrect": true,
+        "marksAwarded": 4
+      },
+      {
+        "questionId": "q2",
+        "selectedOption": "B",
+        "isCorrect": true,
+        "marksAwarded": 4
+      },
+      {
+        "questionId": "q3",
+        "selectedOption": "A",
+        "isCorrect": true,
+        "marksAwarded": 4
+      },
+      {
+        "questionId": "q4",
+        "selectedOption": "D",
+        "isCorrect": true,
+        "marksAwarded": 4
+      },
+      {
+        "questionId": "q5",
+        "selectedOption": "B",
+        "isCorrect": false,
+        "marksAwarded": 0
+      }
+    ],
+    "startedAt": "2026-11-07T10:04:30.671Z",
+    "submittedAt": "2026-11-07T10:22:30.671Z",
+    "timeTakenSeconds": 780,
+    "score": 16,
+    "totalMarks": 20,
+    "percentage": 80,
+    "result": "Pass",
+    "status": "Submitted",
+    "createdAt": "2026-11-07T10:04:30.671Z",
+    "updatedAt": "2026-11-07T10:22:30.671Z"
+  },
+  {
+    "_id": "att_1794060299105",
+    "id": "att_1794060299105",
+    "studentId": "672b10000000000000000003",
+    "registrationNumber": "ST-2024-002",
+    "studentName": "Emma Watson",
+    "examId": "672b20000000000000000001",
+    "examTitle": "Database Systems: Normalization & Indexing",
+    "subject": "Computer Science (CS 330)",
+    "startedAt": "2026-11-07T13:57:59.105Z",
+    "answers": [
+      {
+        "questionId": "q1",
+        "questionText": "Which normal form eliminates transitive dependency for non-prime attributes on candidate keys?",
+        "optionA": "First Normal Form (1NF)",
+        "optionB": "Second Normal Form (2NF)",
+        "optionC": "Third Normal Form (3NF)",
+        "optionD": "Boyce-Codd Normal Form (BCNF)",
+        "selectedOption": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "marksAwarded": 4,
+        "totalMarks": 4
+      },
+      {
+        "questionId": "q2",
+        "questionText": "In a B+ Tree index with order m, where are the actual data pointers / record records stored?",
+        "optionA": "Evenly distributed across all tree nodes",
+        "optionB": "Exclusively in the leaf nodes, linked as a doubly-linked list",
+        "optionC": "Only in the root and interior nodes",
+        "optionD": "In an external overflow file without tree indexing",
+        "selectedOption": "B",
+        "correctAnswer": "B",
+        "isCorrect": true,
+        "marksAwarded": 4,
+        "totalMarks": 4
+      },
+      {
+        "questionId": "q3",
+        "questionText": "What ACID property guarantees that a transaction will either commit entirely or leave the database completely unchanged upon failure?",
+        "optionA": "Atomicity",
+        "optionB": "Consistency",
+        "optionC": "Isolation",
+        "optionD": "Durability",
+        "selectedOption": "A",
+        "correctAnswer": "A",
+        "isCorrect": true,
+        "marksAwarded": 4,
+        "totalMarks": 4
+      },
+      {
+        "questionId": "q4",
+        "questionText": "Which of the following SQL isolation levels completely prevents dirty reads, non-repeatable reads, and phantom reads?",
+        "optionA": "Read Committed",
+        "optionB": "Read Uncommitted",
+        "optionC": "Repeatable Read",
+        "optionD": "Serializable",
+        "selectedOption": "D",
+        "correctAnswer": "D",
+        "isCorrect": true,
+        "marksAwarded": 4,
+        "totalMarks": 4
+      },
+      {
+        "questionId": "q5",
+        "questionText": "A table is in 2NF if and only if it is in 1NF and what additional condition is met?",
+        "optionA": "Every non-key attribute is fully functionally dependent on the entire primary key (no partial dependency)",
+        "optionB": "There are no multivalued dependencies (4NF)",
+        "optionC": "All determinants are superkeys",
+        "optionD": "Every attribute contains atomic values only",
+        "selectedOption": "A",
+        "correctAnswer": "A",
+        "isCorrect": true,
+        "marksAwarded": 4,
+        "totalMarks": 4
+      }
+    ],
+    "score": 20,
+    "totalMarks": 20,
+    "percentage": 100,
+    "result": "Pass",
+    "status": "Submitted",
+    "submittedAt": "2026-11-07T14:04:59.105Z",
+    "timeTakenSeconds": 420,
+    "updatedAt": "2026-11-07T14:04:59.105Z"
+  }
+]
